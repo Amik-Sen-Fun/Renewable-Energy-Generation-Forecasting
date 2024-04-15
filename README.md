@@ -10,5 +10,5 @@ Firstly, XGBoost is the name of a library! For me it was a shocker because I alw
 
 The following is the architecture of a Gradient Boosted Trees:
 
-<img src="https://github.com/Amik-Sen-Fun/Renewable-Energy-Generation-Forecasting/blob/main/Notes/Gradient_Boosted_Tree_Architecture.jpeg" width="24em">
+<img src="https://github.com/Amik-Sen-Fun/Renewable-Energy-Generation-Forecasting/blob/main/Notes/Gradient_Boosted_Tree_Architecture.jpeg">
 
